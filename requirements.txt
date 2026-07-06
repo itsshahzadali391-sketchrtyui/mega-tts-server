@@ -1,3 +1,5 @@
 gradio==4.44.0
 edge-tts
 httpx
+audioop-lts
+pydub
